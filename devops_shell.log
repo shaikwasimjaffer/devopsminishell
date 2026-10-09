@@ -1,0 +1,50 @@
+[2026-10-08 03:03:56] [EXIT:  0] help
+[2026-10-08 03:03:56] [EXIT:  0] pwd
+[2026-10-08 03:03:56] [EXIT:  0] uptime
+[2026-10-08 03:03:56] [EXIT:9999] exit
+[2026-10-08 03:04:03] [EXIT:  0] sysinfo
+[2026-10-08 03:04:03] [EXIT:  0] free
+[2026-10-08 03:04:03] [EXIT:  0] df
+[2026-10-08 03:04:03] [EXIT:  0] history
+[2026-10-08 03:04:03] [EXIT:  0] log
+[2026-10-08 03:04:03] [EXIT:  0] uptime ; pwd
+[2026-10-08 03:04:03] [EXIT:9999] exit
+[2026-10-08 03:04:31] [EXIT:  0] deploy deploy_sample.sh
+[2026-10-08 03:04:31] [EXIT:  0] workflow ci_pipeline.workflow
+[2026-10-08 03:04:31] [EXIT:9999] exit
+[2026-10-08 03:05:02] [EXIT:  0] deploy deploy_sample.sh
+[2026-10-08 03:05:02] [EXIT:9999] exit
+[2026-10-08 03:06:09] [EXIT:  0] uptime
+[2026-10-08 03:06:09] [EXIT:  0] free
+[2026-10-08 03:06:09] [EXIT:  0] pwd
+[2026-10-08 03:06:09] [EXIT:  0] history
+[2026-10-08 03:06:09] [EXIT:  0] log 3
+[2026-10-08 03:06:09] [EXIT:  0] workflow ci_pipeline.workflow
+[2026-10-08 03:06:09] [EXIT:9999] exit
+[2026-10-08 12:47:01] [EXIT:  0] help
+[2026-10-08 12:47:01] [EXIT:  0] pwd
+[2026-10-08 12:47:01] [EXIT:  0] uptime
+[2026-10-08 12:47:01] [EXIT:  0] free
+[2026-10-08 12:47:01] [EXIT:  0] df
+[2026-10-08 12:47:01] [EXIT:  0] history
+[2026-10-08 12:47:01] [EXIT:  0] log 3
+[2026-10-08 12:47:01] [EXIT:9999] exit
+[2026-10-08 13:03:40] [EXIT:  0] uptime
+[2026-10-08 13:03:40] [EXIT:9999] exit
+[2026-10-08 13:04:47] [EXIT:  0] sysinfo
+[2026-10-08 13:04:48] [EXIT:  0] workflow ci_pipeline.workflow
+[2026-10-08 13:04:52] [EXIT:  0] deploy deploy_sample.sh
+[2026-10-08 13:04:52] [EXIT:9999] exit
+[2026-10-08 16:14:46] [EXIT:  0] cd "/mnt/c/Users/SHAIK WASIM JAFFER/OneDrive/Desktop/ossp project"
+[2026-10-08 16:22:27] [EXIT:  0] sysinfo
+[2026-10-08 16:22:35] [EXIT:  0] workflow ci_pipeline.workflow
+[2026-10-08 16:24:54] [EXIT:  0] deploy deploy_sample.sh
+[2026-10-08 16:25:05] [EXIT:  0] uptime ; free
+[2026-10-09 02:47:43] [EXIT:  0] help
+[2026-10-09 02:48:12] [EXIT:  0] workflow ci_pipeline.workflow
+[2026-10-09 02:48:16] [EXIT:  0] clear ; sysinfo
+[2026-10-09 02:48:25] [EXIT:  0] uptime && df
+[2026-10-09 02:48:49] [EXIT:127] make test
+[2026-10-09 02:49:05] [EXIT:  0] clear
+[2026-10-09 02:49:07] [EXIT:  0] ls
+[2026-10-09 02:49:12] [EXIT:  0] clear
